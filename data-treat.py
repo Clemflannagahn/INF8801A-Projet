@@ -1,7 +1,7 @@
 import os
 import re
 
-DATA = 'data-2'
+DATA = 'data'
 PHOTOS = DATA + '/photos'
 SKETCHES = DATA + '/sketches'
 
