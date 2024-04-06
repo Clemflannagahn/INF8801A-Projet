@@ -2,6 +2,8 @@
 data/
 data-2/
 *.pdf
+*.png
+cuda*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
