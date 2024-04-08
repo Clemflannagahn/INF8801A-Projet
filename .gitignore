@@ -5,6 +5,7 @@ data-2/
 *.png
 cuda*
 fix.md
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
