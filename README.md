@@ -1,5 +1,6 @@
 # INF8801A Projet
 Here you will find a (partial) reimplementation of the article [Face Sketch Recognition](https://www.ee.cuhk.edu.hk/~xgwang/papers/wangTcsvt04.pdf) written by Xiaoou Tang and Xiaogang Wang in 2004.
+The implementation mainly concerns the parts III.A and III.B corresponding to the photo-to-sketch transformation and to the photo retrieval. We then have implemented the different distances used in the article to compare our own results to it.
 
 It also features an implementation of a GAN in order to compare performances.
 
