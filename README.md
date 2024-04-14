@@ -17,7 +17,7 @@ You can get the dataset on Kaggle [here](https://www.kaggle.com/datasets/arbazkh
 
 It is expected for the data to be in a `data/` folder at the root of the project. Only the `photos/` and `sketches/` folder will be of use.
 
-**Important:** To run the notebooks, you'll need to execute the `dat-treat.py` script in order to rename the files so that they'll work correctly with the rest.
+**Important:** To run the notebooks, you'll need to execute the `data-treat.py` script in order to rename the files so that they'll work correctly with the rest.
 
 ## Requirements
 Having a python install working. A conda environment have been used for the run of the notebooks using python 3.11.8.
