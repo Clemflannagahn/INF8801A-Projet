@@ -33,4 +33,6 @@ if RENAME:
         name = re.sub('m-', 'M-', name)
         name = re.sub('M2-', 'M-', name)
         name = re.sub('m1-', 'M1-', name)
+
+        name = re.sub('-sz1', '', name)
         os.rename(f, name)
